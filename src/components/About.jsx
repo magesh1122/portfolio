@@ -65,7 +65,8 @@ export default function About() {
                 <motion.img
                   src={profileImg}
                   alt="Profile"
-                  className="w-64 h-64 object-cover rounded-full border-4 border-dark-700 shadow-2xl"
+                  className="w-
+                  64 h-64 object-cover rounded-full border-4 border-dark-700 shadow-2xl"
                   whileHover={{ scale: 1.05 }}
                   transition={{ duration: 0.3 }}
                 />
@@ -126,7 +127,7 @@ export default function About() {
             >
               I'm a full-stack developer and currently doing my internship at
               BRAINBRIC INNOVATIONS, building modern web applications. I
-              specialize in React, Node.js, and modern web technologies.
+              specialize in React, Node.js,next.js and modern web technologies.
             </motion.p>
 
             <motion.p
